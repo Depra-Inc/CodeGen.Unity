@@ -1,8 +1,8 @@
 {
 	"name": "com.depra.codegen",
-	"version": "0.2.1",
+	"version": "0.0.1",
 	"displayName": "Depra.CodeGen",
-	"description": "",
+	"description": "Code generation library for Unity Editor.",
 	"unity": "2022.3",
 	"license": "Apache-2.0",
 	"keywords": [
@@ -24,8 +24,8 @@
 	"samples": [
 		{
 			"displayName": "Tags & Layers",
-			"description": "",
-			"path": "Samples~"
+			"description": "A sample that generates a class that manages Tags, Layers and Sorting Layers with constants.",
+			"path": "Samples~/Tags & Layers"
 		}
 	]
 }
