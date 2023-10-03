@@ -1,0 +1,31 @@
+{
+	"name": "com.depra.codegen",
+	"version": "0.2.1",
+	"displayName": "Depra.CodeGen",
+	"description": "",
+	"unity": "2022.3",
+	"license": "Apache-2.0",
+	"keywords": [
+		"Depra",
+		"Code",
+		"CodeGen",
+		"Generation",
+		"Source"
+	],
+	"author": {
+		"name": "Depra, Inc.",
+		"email": "n.melnikov@depra.org",
+		"url": "https://github.com/Depra-Inc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Depra-Inc/CodeGen.Unity.git"
+	},
+	"samples": [
+		{
+			"displayName": "Tags & Layers",
+			"description": "",
+			"path": "Samples~"
+		}
+	]
+}

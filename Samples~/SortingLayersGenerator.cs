@@ -8,7 +8,7 @@ using UnityEditor;
 namespace Depra.CodeGen.Samples
 {
 	[Generator]
-	public sealed class SortingLayersGenerator : ICodeGenerator
+	public readonly struct SortingLayersGenerator : ICodeGenerator
 	{
 		void ICodeGenerator.Execute(GeneratorContext context)
 		{
