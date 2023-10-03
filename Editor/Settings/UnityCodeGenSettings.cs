@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// © 2023 Nikolay Melnikov <n.melnikov@depra.org>
+
 using UnityEditor;
 using static Depra.CodeGen.Editor.Common.Module;
 
