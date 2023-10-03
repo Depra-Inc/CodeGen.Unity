@@ -1,0 +1,18 @@
+{
+    "name": "Depra.CodeGen.Samples",
+    "rootNamespace": "",
+    "references": [
+        "Depra.CodeGen.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Depra.CodeGen.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
