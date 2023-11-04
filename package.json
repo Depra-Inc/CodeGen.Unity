@@ -1,6 +1,6 @@
 {
 	"name": "com.depra.codegen",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"displayName": "Depra.CodeGen",
 	"description": "Code generation library for Unity Editor.",
 	"unity": "2022.3",
